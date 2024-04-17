@@ -1,3 +1,3 @@
-# slack-app-schedule
+# **Slack-Schedule-Sample**
 
-***for connect app with python code and creates a thread based on schedule excel sheet.***
+***for connecting the app with Python Slack SDK, Slack Server, and creating a thread based on the scheduled Excel sheet.***
